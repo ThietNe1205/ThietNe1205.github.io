@@ -163,6 +163,8 @@ function createGift() {
     '⭐ Tôi thích cảm nhận nhịp tim của em',
     '🎅 Xinh gái làm ơn đừng buồn',
     '🎅 Hee Joo à!',
+    'Skill thượng thừa của mẹ tui: Mếu 🥺',
+    'Mếu cái là đứng hình liền, sai trái liền 🤣🤣',
   ];
 
   gift.addEventListener('click', () => {
