@@ -158,13 +158,15 @@ function createGift() {
   gift.style.top = '-50px';
 
   const messages = [
-    '🎁 Anh bảo đến khi nào vứt xác thì gọi. Đến nhận xác điii',
-    '🎄 Hee Joo là vợ con!',
-    '⭐ Tôi thích cảm nhận nhịp tim của em',
+    '🎁 Hee Joo: Anh bảo đến khi nào vứt xác thì gọi. Đến nhận xác điii',
+    '🎄 Mỏ hỗn: Hee Joo là vợ của con!',
     '🎅 Xinh gái làm ơn đừng buồn',
     '🎅 Hee Joo à!',
-    'Skill thượng thừa của mẹ tui: Mếu 🥺',
-    'Mếu cái là đứng hình liền, sai trái liền 🤣🤣',
+    '🎁 Skill thượng thừa của mẹ tui: Mếu 🥺',
+    '🎁 Mếu cái là đứng hình liền, sai trái liền 🤣🤣',
+    '⭐ Chúc Hằng thi tốt',
+    '🎄 Hộp này không có gì đâuuu ',
+    '⭐ Hết rồi code được vậy thui😫',
   ];
 
   gift.addEventListener('click', () => {
