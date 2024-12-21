@@ -101,14 +101,12 @@ body {
 
 .star-top {
   
-    position: absolute;
+    position: relative;
     top: 60px; /* Thay đổi từ -30px thành 10px, ngôi sao sẽ thấp hơn một chút */
     left: 50%;
     font-size: 40px;
     color: gold;
     animation: starGlow 2s infinite alternate;
-  
-  transform: translateX(-50%) translateY(10px); /* Điều chỉnh vị trí sao */
 }
 
 .pine-tree-img {
@@ -491,14 +489,14 @@ body {
   }
 
   .tree {
-    width: 200px;
-    height: 300px;
+    width: 400px;
+    height: 500px;
     right: 3%;
   }
 
   .star-top {
-    font-size: 30px;
-    top: -15px;
+    font-size: 28px;
+    top: 38px;
   }
 
   .santa {
@@ -534,14 +532,15 @@ body {
   }
 
   .tree {
-    width: 150px;
-    height: 250px;
+    width: 300px;
+    height: 500px;
     right: 3%;
   }
 
   .star-top {
-    font-size: 24px;
-    top: -12px;
+    font-size: 25px;
+    top: 39px;
+    right: 6%;
   }
 
   .santa {
@@ -567,6 +566,6 @@ body {
 }
 
 .tiktok-logo img {
-  width: 35px;
+  width: 50px;
   height: auto;
 }
